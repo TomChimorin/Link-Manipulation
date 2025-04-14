@@ -7,10 +7,12 @@
 
 When clicking show links it goes to the second screenshot on the bottom.
 
+
 #### App with modification opportunities for every link. 
 ![Screenshot 2025-04-14 194029](https://github.com/user-attachments/assets/6d76a61a-8743-4cd2-872e-dc8f67e30626)
 
 This specifically allows users to add either class = "external" or target = "_blank". 
+
 
 ### Link Behaviour Attributes
 
