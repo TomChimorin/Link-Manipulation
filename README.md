@@ -14,6 +14,7 @@ When clicking show links it goes to the second screenshot on the bottom.
 This specifically allows users to add either class = "external" or target = "_blank". 
 
 
+
 ### Link Behaviour Attributes
 
 #### ```class = "external"```
